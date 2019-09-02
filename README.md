@@ -1,6 +1,6 @@
-![homepage screenshot](img/Monsters.png)
-
 # Simply game C++
+
+![homepage screenshot](img/Monsters.png)
 
 # Technologies I've used
 C++
