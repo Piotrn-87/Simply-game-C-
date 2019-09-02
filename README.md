@@ -1,4 +1,4 @@
-![homepage screenshot](img.Monsters.png)
+![homepage screenshot](img/Monsters.png)
 
 # Simply game C++
 
